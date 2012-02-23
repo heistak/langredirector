@@ -2,7 +2,8 @@
 // @name           Gizmodo language redirector
 // @namespace      http://www.heistak.com/
 // @description    Redirects Gizmodo.jp pages to the original English pages
-// @match          http://*gizmodo.jp/*
+// @match          http://gizmodo.jp/*
+// @match          http://www.gizmodo.jp/*
 // ==/UserScript==
 
 var entry_detail = document.getElementById("entry_detail");
