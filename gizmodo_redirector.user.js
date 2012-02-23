@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name			Gizmodo language redirector
-// @namespace		http://www.heistak.com/
-// @description		Redirects Gizmodo.jp pages to the original English pages
-// @match			http://gizmodo.jp/*
-// @match			http://www.gizmodo.jp/*
-// @version			1.0.0
+// @name            Gizmodo language redirector
+// @namespace       http://www.heistak.com/
+// @description     Redirects Gizmodo.jp pages to the original English pages
+// @match           http://gizmodo.jp/*
+// @match           http://www.gizmodo.jp/*
+// @version         1.0.0
 // ==/UserScript==
 
 var entry_detail = document.getElementById("entry_detail");
